@@ -1,0 +1,14 @@
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/bin/Debug/net8.0/Lab1_ConsoleApp
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/bin/Debug/net8.0/Lab1_ConsoleApp.deps.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/bin/Debug/net8.0/Lab1_ConsoleApp.runtimeconfig.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/bin/Debug/net8.0/Lab1_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/bin/Debug/net8.0/Lab1_ConsoleApp.pdb
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/obj/Debug/net8.0/Lab1_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/obj/Debug/net8.0/Lab1_ConsoleApp.AssemblyInfoInputs.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/obj/Debug/net8.0/Lab1_ConsoleApp.AssemblyInfo.cs
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/obj/Debug/net8.0/Lab1_ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/obj/Debug/net8.0/Lab1_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/obj/Debug/net8.0/refint/Lab1_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/obj/Debug/net8.0/Lab1_ConsoleApp.pdb
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/obj/Debug/net8.0/Lab1_ConsoleApp.genruntimeconfig.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab1/Lab1_ConsoleApp/obj/Debug/net8.0/ref/Lab1_ConsoleApp.dll
